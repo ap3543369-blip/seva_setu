@@ -1,0 +1,10 @@
+target/
+data/
+uploads/
+.idea/
+*.iml
+.vscode/
+frontend/node_modules/
+src/main/resources/static/*
+!src/main/resources/static/.gitkeep
+private-docs/
